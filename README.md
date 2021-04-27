@@ -3,11 +3,9 @@
   <h1>PlantManager</h1>
   <p>🌱 Application to remind people to water their plants 🌱</p>
   <p>
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hmartiins/plantmanager?color=%232196F3">
     <a href="https://www.linkedin.com/in/samira-costa" target="_blank" rel="noopener noreferrer">
-      <img alt="Made by" src="https://img.shields.io/badge/made%20by-Henrique%20Martins-%232196F3">
+      <img alt="Made by" src="https://img.shields.io/badge/made%20by-Samira%20Costa-green">
     </a>          
-    <img alt="GitHub" src="https://img.shields.io/github/license/hmartiins/plantmanager?color=%232196F3">
   </p>
 </div>
 
